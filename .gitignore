@@ -1,0 +1,9 @@
+# VS Code / Visual Studio
+.vs/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
